@@ -1,0 +1,56 @@
+#head{
+    border-bottom: 2px solid #beb4b4;
+    font-weight: 400;
+    text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 35%;
+}
+
+#head span{
+    color: #dd3737c2;
+}
+
+#met{
+    font-family: 'Bungee Inline', cursive ;
+}
+
+#ac{
+    font-family: 'Stalinist One', cursive;
+}
+
+#elec{
+    font-family: 'Oi', cursive;
+}
+
+#met:hover{
+    color: #e74d10e8;
+    transition: ease-in 0.3s;
+}
+
+#ac:hover{
+    color: #4343ebcc;
+    transition: ease-in 0.3s;
+}
+
+#elec:hover{
+    color: #eb1f6dcc;
+    transition: ease-in 0.3s;
+}
+
+.metimg img:hover{
+    border: 2px solid #e74d10e8;
+    border-radius: 15px;
+    transition: ease-in 0.2s;
+}
+
+.acimg img:hover{
+    border: 2px solid #4343ebcc;
+    border-radius: 15px;
+    transition: ease-in 0.2s;
+}
+
+.elimg img:hover{
+    border: 2px solid #eb1f6dcc;
+    border-radius: 15px;
+    transition: ease-in 0.2s;
+}
