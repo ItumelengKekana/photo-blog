@@ -10,8 +10,12 @@
     color: #dd3737c2;
 }
 
+img{
+    width: 450px;
+}
+
 #met{
-    font-family: 'Bungee Inline', cursive ;
+    font-family: 'Bungee Inline', cursive;
 }
 
 #ac{
